@@ -1,1 +1,1 @@
-# WheresWaldo
+# Fullstack Template
